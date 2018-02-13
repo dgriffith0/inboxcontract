@@ -1,0 +1,1 @@
+Simple ethereum contract setup from tutorial.
